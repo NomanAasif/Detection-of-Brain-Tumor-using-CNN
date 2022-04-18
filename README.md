@@ -1,1 +1,1 @@
-# Deep Learning Application for Dtection of Brain Tumor using CNN
+# Deep Learning Application for Detection of Brain Tumor using CNN
